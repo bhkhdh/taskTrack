@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  reward: 1
+  status: MyString
+  parent_id: 1
+  assigned_to: MyString
+
+two:
+  title: MyString
+  description: MyString
+  reward: 1
+  status: MyString
+  parent_id: 1
+  assigned_to: MyString
